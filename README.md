@@ -14,7 +14,7 @@ Understand what makes a password strong, test different passwords using online s
 ## 📄 Report
 All findings, evaluations, and research are documented in detail.
 
-➡ [Full Report (PDF)](documentation.pdf)
+➡ [Full Report (PDF)](Documentation.pdf)
 
 ## Key Takeaways
 - Use long, complex, and unique passwords.
